@@ -15,4 +15,4 @@ class Solution:
 
 
 s = Solution()
-print(s.twoSum([3, 4, 5, 6], 7))
+print(s.twoSum([5, 4, 3, 2, 1], 8))
